@@ -1,0 +1,2 @@
+N,dft_vs_udft_err,udft_unitary,identity_mae,energy_identity,energy_lowpass,energy_highpass,energy_bandpass,energy_random_diag,toeplitz_shape,toeplitz_rank
+32,0.0,True,7.640399661428379e-14,38.82570684558054,7.274165771712072,22.19599166113371,15.343766343230655,38.82570684558054,"(32, 32)",32
